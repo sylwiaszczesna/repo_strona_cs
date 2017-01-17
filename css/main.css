@@ -264,7 +264,7 @@ height: 410px;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-background-color: #F5D699;
+background-color: #7B94FF;
 }
 
 .mainContainer {
@@ -303,14 +303,15 @@ background-color: #000;
 }
 
 .button {
-  text-align: right;
+  text-align: justify;
   margin: auto;
+  padding: auto;
   
   
 }
 
 .button a {
-  text-decoration: none;
+ text-decoration: none;
 }
 
 
