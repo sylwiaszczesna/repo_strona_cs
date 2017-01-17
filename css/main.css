@@ -162,8 +162,6 @@ nav ul li:last-child a {
 }
 
 
-
-
 .movableHeader{
   width:100%;
   height:60px;
@@ -266,7 +264,13 @@ height: 410px;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-background-color: #222;
+background-color: #F5D699;
+}
+
+.mainContainer {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .smallerArticleContainer{
@@ -278,6 +282,36 @@ margin-right: auto;
 background-color: #000;
 }
 
+.articles {
+  width: 300px;
+  padding: 5px;
+  margin: auto;
+  text-align: center;
+  display: inline-block;
+}
+
+.treeInDiv {
+  width: 270px;
+  height: 270px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.articlesUnderImage {
+  text-align: justify;
+  padding: 5px;
+}
+
+.button {
+  text-align: right;
+  margin: auto;
+  
+  
+}
+
+.button a {
+  text-decoration: none;
+}
 
 
 /*---------------------------------------------*/
